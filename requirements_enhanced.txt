@@ -1,0 +1,33 @@
+# Sign Language to Speech Converter - Requirements
+# Core dependencies for the application
+
+# Computer vision and image processing
+opencv-python==4.8.1.78
+cvzone==1.6.1
+
+# Machine learning and neural networks  
+tensorflow==2.13.0
+keras==2.13.1
+numpy==1.24.3
+
+# GUI and image handling
+tkinter  # Usually comes with Python
+Pillow==10.0.1
+matplotlib==3.7.2
+
+# Text to speech
+pyttsx3==2.90
+
+# Language processing and spell checking
+pyenchant==3.2.2
+
+# Utility libraries
+scipy==1.11.2
+scikit-learn==1.3.0
+
+# Optional: For better performance
+numba==0.57.1
+
+# Development and debugging (optional)
+# jupyter==1.0.0
+# ipywidgets==8.1.1
